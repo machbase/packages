@@ -4,6 +4,7 @@
 
 * [machbase-SDK-8.0.15.official-LINUX-X86-64-release.tgz](https://github.com/machbase/packages/releases/download/8.0.15/machbase-SDK-8.0.15.official-LINUX-X86-64-release.tgz)
 * [machbase-cluster-8.0.15.official-LINUX-X86-64-release-lightweight.tgz](https://github.com/machbase/packages/releases/download/8.0.15/machbase-cluster-8.0.15.official-LINUX-X86-64-release-lightweight.tgz)
+* [machbase-SDK-8.0.15.official-WINDOWS-X86-64-release.msi](https://github.com/machbase/packages/releases/download/8.0.15/machbase-SDK-8.0.15.official-WINDOWS-X86-64-release.msi)
 
 ## 8.0.14
 
