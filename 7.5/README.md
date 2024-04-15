@@ -1,5 +1,8 @@
 # 7.5 packages
 
-## 7.5.8
+## 7.5.9
 
-* [machbase-SDK-7.5.8.official-WINDOWS-X86-64-release.msi](https://github.com/machbase/dbms-nfx/releases/download/7.5.8/machbase-SDK-7.5.8.official-WINDOWS-X86-64-release.msi)
+|OS|Arch|Download|
+|--|--|--|
+|Linux|x64|[machbase-fog-7.5.9.official-LINUX-X86-64-release.tgz](https://github.com/machbase/packages/releases/download/7.5.9/machbase-fog-7.5.9.official-LINUX-X86-64-release.tgz)|
+
