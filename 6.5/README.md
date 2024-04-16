@@ -1,5 +1,12 @@
 # 6.5
 
+## 6.5.35
+
+|OS|Arch|Download|
+|--|--|--|
+|Linux|x64| [machbase-fog-6.5.35.official-LINUX-X86-64-release.tgz](https://github.com/machbase/packages/releases/download/6.5.35/machbase-fog-6.5.35.official-LINUX-X86-64-release.tgz)|
+
+
 ## 6.5.34 
 
 |OS|Arch|Download|
