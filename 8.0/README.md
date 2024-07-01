@@ -8,7 +8,7 @@ https://github.com/machbase/dbms-nfx/releases/tag/8.0.23
 |--|--|--|
 |Linux|x64|[machbase-SDK-8.0.23.official-LINUX-X86-64-release.tgz](https://github.com/machbase/packages/releases/download/8.0.23/machbase-SDK-8.0.23.official-LINUX-X86-64-release.tgz)<br>[machbase-cluster-8.0.23.official-LINUX-X86-64-release-lightweight.tgz](https://github.com/machbase/packages/releases/download/8.0.23/machbase-cluster-8.0.23.official-LINUX-X86-64-release-lightweight.tgz)|
 |Linux|arm64|[machbase-SDK-8.0.23.official-LINUX-ARM_CORTEX_A53-64-release.tgz](https://github.com/machbase/packages/releases/download/8.0.23/machbase-SDK-8.0.23.official-LINUX-X86-64-release.tgz)|
-|Windows|x64||
+|Windows|x64|[machbase-SDK-8.0.23.official-WINDOWS-X86-64-release.zip](https://github.com/machbase/packages/releases/download/8.0.23/machbase-SDK-8.0.23.official-WINDOWS-X86-64-release.zip)|
 
 
 ## 8.0.22
