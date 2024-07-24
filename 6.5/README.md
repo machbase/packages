@@ -6,7 +6,7 @@ https://github.com/machbase/dbms-nfx/releases/tag/6.5.36
 |OS|Arch|Download|
 |--|--|--|
 |Linux|x64|[machbase-fog-6.5.36.official-LINUX-X86-64-release.tgz](https://github.com/machbase/packages/releases/download/6.5.36/machbase-fog-6.5.36.official-LINUX-X86-64-release.tgz)|
-|Windows|x64|[machbase-fog-6.5.36.official-WINDOWS-X86-64-release.zip](https://github.com/machbase/packages/releases/download/6.5.36/machbase-fog-6.5.36.official-WINDOWS-X86-64-release.zip)|
+|Windows|x64|[machbase-fog-6.5.36.official-WINDOWS-X86-64-release.zip](https://github.com/machbase/packages/releases/download/6.5.36/machbase-fog-6.5.36.official-WINDOWS-X86-64-release.zip)<br>[machbase-SDK-6.5.36.official-WINDOWS-X86-64-release.msi](https://github.com/machbase/packages/releases/download/6.5.36/machbase-SDK-6.5.36.official-WINDOWS-X86-64-release.msi)|
 
 
 ## 6.5.35
