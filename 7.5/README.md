@@ -1,5 +1,9 @@
 # 7.5 packages
 
+## 7.5.10
+
+https://github.com/machbase/dbms-nfx/releases/tag/7.5.10
+
 ## 7.5.9
 
 |OS|Arch|Download|
