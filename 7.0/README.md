@@ -1,5 +1,9 @@
 # 7.0
 
+## 7.0.19
+
+https://github.com/machbase/dbms-nfx/releases/tag/7.0.19
+
 ## 7.0.18
 
 https://github.com/machbase/dbms-nfx/releases/tag/7.0.18
