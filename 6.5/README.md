@@ -1,5 +1,9 @@
 # 6.5
 
+## 6.5.38
+
+https://github.com/machbase/dbms-nfx/releases/tag/6.5.38
+
 ## 6.5.37
 
 https://github.com/machbase/dbms-nfx/releases/tag/6.5.37
