@@ -2,7 +2,7 @@
 
 ## 8.0.32
 
-https://github.com/machbase/dbms-nfx/releases/tag/8.0.31
+https://github.com/machbase/dbms-nfx/releases/tag/8.0.32
 
 |OS|Arch|Download|
 |--|--|--|
