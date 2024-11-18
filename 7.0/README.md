@@ -2,7 +2,7 @@
 
 ## 7.0.20
 
-https://github.com/machbase/packages/releases/tag/7.0.20
+https://github.com/machbase/dbms-nfx/releases/tag/7.0.20
 
 |OS|Arch|Download|
 |--|--|--|
