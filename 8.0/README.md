@@ -1,6 +1,6 @@
 # 8.0 packages
 
-## 8.0.35
+## 8.0.36
 
 https://github.com/machbase/dbms-nfx/releases/tag/8.0.36
 
