@@ -1,6 +1,6 @@
 # 6.5
 
-## 6.5.37
+## 6.5.39
 
 https://github.com/machbase/dbms-nfx/releases/tag/6.5.39
 |OS|Arch|Download|
