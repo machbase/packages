@@ -1,7 +1,7 @@
 # 8.0 packages
 
-## 8.0.42
-https://github.com/machbase/dbms-nfx/releases/tag/8.0.42
+## 8.0.44
+https://github.com/machbase/dbms-nfx/releases/tag/8.0.44
 
 |OS|Arch|Download|
 |--|--|--|
