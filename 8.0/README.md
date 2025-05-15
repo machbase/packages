@@ -5,6 +5,15 @@ https://github.com/machbase/dbms-nfx/releases/tag/8.0.42
 
 |OS|Arch|Download|
 |--|--|--|
+|Linux|x64|[machbase-neo-v8.0.51-linux-amd64.zip](https://github.com/machbase/packages/releases/download/8.0.44/machbase-neo-v8.0.51-linux-amd64.zip)|
+
+
+
+## 8.0.42
+https://github.com/machbase/dbms-nfx/releases/tag/8.0.42
+
+|OS|Arch|Download|
+|--|--|--|
 |Linux|x64|[machbase-SDK-8.0.42.official-LINUX-X86-64-release.tgz](https://github.com/machbase/packages/releases/download/8.0.42/machbase-SDK-8.0.42.official-LINUX-X86-64-release.tgz)<br>[machbase-cluster-8.0.42.official-LINUX-X86-64-release-lightweight.tgz](https://github.com/machbase/packages/releases/download/8.0.42/machbase-cluster-8.0.42.official-LINUX-X86-64-release-lightweight.tgz)|
 
 
