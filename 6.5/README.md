@@ -2,7 +2,7 @@
 
 ## 6.5.40
 
-https://github.com/machbase/dbms-nfx/releases/tag/6.5.39
+https://github.com/machbase/dbms-nfx/releases/tag/6.5.40
 |OS|Arch|Download|
 |--|--|--|
 |Linux|x64|[machbase-fog-6.5.40.official-LINUX-X86-64-release.tgz](https://github.com/machbase/packages/releases/download/6.5.40/machbase-fog-6.5.40.official-LINUX-X86-64-release.tgz)<br>[machcollector-6.5.40.tar.gz](https://github.com/machbase/packages/releases/download/6.5.40/machcollector-6.5.40.tar.gz)|
