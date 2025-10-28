@@ -1,6 +1,14 @@
 # 8.0 packages
 
 
+## 8.0.51
+https://github.com/machbase/dbms-nfx/releases/tag/8.0.51
+
+|OS|Arch|Download|
+|--|--|--|
+|Windows|x64|[machbase-SDK-8.0.51.official-WINDOWS-X86-64-release.msi](https://github.com/machbase/packages/releases/download/8.0.51/machbase-SDK-8.0.51.official-WINDOWS-X86-64-release.msi)|
+
+
 ## 8.0.50
 https://github.com/machbase/dbms-nfx/releases/tag/8.0.50
 
