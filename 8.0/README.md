@@ -1,6 +1,14 @@
 # 8.0 packages
 
 
+## 8.0.52
+https://github.com/machbase/dbms-nfx/releases/tag/8.0.52
+
+|OS|Arch|Download|
+|--|--|--|
+|C# Dotnet Connector|x64|[UniMachNetConnector.8.0.52.zip](https://github.com/machbase/packages/releases/download/8.0.52/UniMachNetConnector.8.0.52.zip)|
+
+
 ## 8.0.51
 https://github.com/machbase/dbms-nfx/releases/tag/8.0.51
 
