@@ -6,7 +6,7 @@ https://github.com/machbase/dbms-nfx/releases/tag/7.0.21
 
 |OS|Arch|Download|
 |--|--|--|
-|Linux|x64|[machbase-cluster-7.0.21.official-LINUX-X86-64-release.tgz](https://github.com/machbase/packages/releases/download/7.0.21/machbase-cluster-7.0.21.official-LINUX-X86-64-release.tgz)|
+|Linux|x64|[machbase-cluster-7.0.21.official-LINUX-X86-64-release.tgz](https://github.com/machbase/packages/releases/download/7.0.21/machbase-cluster-7.0.21.official-LINUX-X86-64-release.tgz)<br>[machbase-cluster-7.0.21.official-LINUX-X86-64-release-lightweight.tgz](https://github.com/machbase/packages/releases/download/7.0.21/machbase-cluster-7.0.21.official-LINUX-X86-64-release-lightweight.tgz)|
 
 
 ## 7.0.20
