@@ -1,5 +1,13 @@
 # 6.5
 
+## 6.5.44
+
+https://github.com/machbase/dbms-nfx/releases/tag/6.5.44
+|OS|Arch|Download|
+|--|--|--|
+|Linux|x64|[machcollector-6.5.44.tar.gz](https://github.com/machbase/packages/releases/download/6.5.44/machcollector-6.5.44.tar.gz)|
+
+
 ## 6.5.43
 
 https://github.com/machbase/dbms-nfx/releases/tag/6.5.43
