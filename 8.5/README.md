@@ -1,6 +1,12 @@
 
 # 8.5 packages
 
+## 8.5.4
+https://github.com/machbase/dbms-nfx/releases/tag/8.5.4
+
+|OS|Arch|Download|
+|--|--|--|
+|Linux|x64|[machbase-SDK-8.5.4.official-LINUX-X86-64-release.tgz](https://github.com/machbase/packages/releases/download/8.5.4/machbase-SDK-8.5.4.official-LINUX-X86-64-release.tgz)|
 
 ## 8.5.3
 https://github.com/machbase/dbms-nfx/releases/tag/8.5.3
